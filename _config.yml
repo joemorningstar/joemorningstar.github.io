@@ -54,3 +54,9 @@ theme: plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+gittalk:
+    clientID:753e7f2a24195a0901f1
+    clientSecret:1ea975642fa8c694195b2b38b7ac46a1e2e235dc
+    repo:joemorningstar.github.io
+    owner:joemorningstar
