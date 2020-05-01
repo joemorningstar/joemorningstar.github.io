@@ -2,27 +2,23 @@
 layout: post
 title:  "我的第一篇博客"
 date:   2020-05-01 07:52:36 +0008
-categories: Javascript NodeJS
+categories: 学习计划 生活记录
 ---
-中文可以显示吗？ sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+大家好呀  我是czy
 
-```javascript
-const Razorpay = require('razorpay');
+这里是我记录生活和学习的地方，欢迎大家常常来围观～
 
-let rzp = Razorpay({
-	key_id: 'KEY_ID',
-	secret: 'name'
-});
+我从昨天想要搭建博客开始,到真的成功,花了不到一天的时间就完成了 *其实被ruby gems还有gpg和pgp吸引了注意力一段时间hhh*
 
-// capture request
-rzp.capture(payment_id, cost)
-	.then(function (data) {
-		return 2;
-	})
-```
+感谢jekyll和github
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+这个寒假随着我不断的搜索和探索，我发现CS远比我想象的有趣.而且好像也没那么难.
+
+Anyway,我觉得我选择在4月30号开一个博客是非常明智的.一觉醒来现在是5月1号,刚好新的月份新的开始.下一篇博客就是我的[五月计划]()
+
+
+
+对了！有空你还可以去看看[我的github]，暂时没什么东西,希望你看到这个网站的时候我能做出点有意思的东西
+
+[我的github]: https://github.com/joemorningstar
