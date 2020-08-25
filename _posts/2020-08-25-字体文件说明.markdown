@@ -1,0 +1,21 @@
+---
+layout: post
+categories: 学习笔记
+date: '2020-05-18 20:38:36 +0008'
+title: 字体文件说明
+---
+
+在根目录下有fonts文件夹，里面有font1、font2、font3、font4、font5五个中文字体文件。
+
+ 
+
+他们分别对应的是
+
+1. font1
+2. font2
+3. font3
+4. font4 
+5. font5 演示悠然小楷
+
+
+ 
